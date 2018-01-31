@@ -1,7 +1,7 @@
-
 /**
  * @author Edwin Ngwa  3/3/2017
- * PuHUB 100 Practice Coding Exercise 
+ * PuHUB 100 Practice Coding Exercise to 
+ * demonstrates use of composition and inheritance
  *   
  */
 package practicecar;
