@@ -1,0 +1,10 @@
+#
+# Eclipse metadata.
+#
+.project
+.classpath
+.settings/
+#
+# Eclipse output folders.
+#
+bin/
